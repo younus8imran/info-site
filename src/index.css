@@ -42,7 +42,7 @@ nav {
 main {
     padding: 57px 27px;    
     color: white; 
-    background-image: url("../public/logo192.png");
+    background-image: url("../public/react-logo.png");
     background-repeat: no-repeat;
     background-position: right 100%;
 }
